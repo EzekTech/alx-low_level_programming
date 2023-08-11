@@ -11,13 +11,13 @@
 
 int main(void)
 {
-	int n,m;
+	int n, m;
 
 	srand(time(0));
 
 	n = rand() - RAND_MAX / 2;
 
-	m = n % 10;
+	m = n % 100;
 
 	/* your code goes there */
 	if (m < 6 && m != 0)
