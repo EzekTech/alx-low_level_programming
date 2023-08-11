@@ -17,7 +17,7 @@ int main(void)
 
 	n = rand() - RAND_MAX / 2;
 
-	m = n % 100;
+	m = n % 10;
 
 	/* your code goes there */
 	if (m < 6 && m != 0)
