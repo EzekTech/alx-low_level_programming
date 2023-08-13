@@ -1,0 +1,4 @@
+gcc: error: 6-size,c: No such file or directory
+gcc: error: 5-printf.c/32ls: Not a directory
+gcc: fatal error: no input files
+compilation terminated.
